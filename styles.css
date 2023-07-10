@@ -67,7 +67,24 @@ h4{
     padding: 10px;
     border-radius: 10px;
 }
-
+.instagram-section {
+    display: flex;
+    align-items: center;
+    margin-top: 20px;
+  }
+  
+  .instagram-icon {
+    color: #000000;
+    font-size: 4em;
+    margin-right: 10px;
+  }
+  
+  .instagram-handle {
+    color: #000000;
+    margin-bottom: 80px;
+    font-size: 1em;
+    font-weight: bold;
+  }
 p{
     margin-top: 80px;
 }
